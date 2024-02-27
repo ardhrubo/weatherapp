@@ -30,17 +30,17 @@ Welcome to Weather App, your new go-to weather forecasting service! Our applicat
 ```javascript
 const API_KEY = 'ENTER YOUR API';
 ```
-##Usage
+### Usage
 
-Start the Server
+## Start the Server
 ```
 npm start
 ```
-Contributing
+## Contributing
 
 We welcome contributions from the community. If you wish to contribute, please take a moment to review our @Contributing Guidelines.
 
-License
+## License
 
 Distributed under the MIT License. See LICENSE for more information.
 
