@@ -30,7 +30,7 @@ Welcome to Weather App, your new go-to weather forecasting service! Our applicat
 ```javascript
 const API_KEY = 'ENTER YOUR API';
 ```
-###Usage
+##Usage
 
 Start the Server
 ```
